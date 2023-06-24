@@ -960,7 +960,7 @@ Is 128 full: 0
 alex@/tmp/binary_trees$
 ```
 
-**Repo:**
+
 
    * GitHub repository: `binary_trees`
    * File: `15-binary_tree_is_full.c`
